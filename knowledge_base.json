@@ -1,0 +1,1248 @@
+{
+  "courses": [
+    {
+      "id": "CS5001",
+      "name": "Intensive Foundations of CS",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Introduction to programming in Python, data structures, and algorithm basics.",
+      "prerequisites": [],
+      "tracks": [
+        "Core"
+      ],
+      "difficulty": 2,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "All software roles"
+      ],
+      "professor": "Prof. Leena Razzaq",
+      "semesters_offered": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "delivery_mode": "Hybrid",
+      "class_size": "Large (60+)",
+      "student_rating": 4.2,
+      "grade_distribution": {
+        "A": 45,
+        "B": 35,
+        "C": 15,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "All tech companies"
+      ]
+    },
+    {
+      "id": "CS5002",
+      "name": "Discrete Structures",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Logic, sets, proofs, graph theory, and combinatorics.",
+      "prerequisites": [
+        "CS5001"
+      ],
+      "tracks": [
+        "Core"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "All CS roles"
+      ],
+      "professor": "Prof. Tehmina Amjad",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Large (60+)",
+      "student_rating": 3.8,
+      "grade_distribution": {
+        "A": 38,
+        "B": 40,
+        "C": 17,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "All tech companies"
+      ]
+    },
+    {
+      "id": "CS5008",
+      "name": "Data Structures, Algorithms, Applications in C",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Arrays, linked lists, trees, sorting, and searching implemented in C.",
+      "prerequisites": [
+        "CS5001"
+      ],
+      "tracks": [
+        "Core",
+        "Systems"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 12,
+      "career_tags": [
+        "Systems",
+        "Backend"
+      ],
+      "professor": "Prof. Jose Annunziato",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4,
+      "grade_distribution": {
+        "A": 40,
+        "B": 38,
+        "C": 16,
+        "D_F": 6
+      },
+      "coop_relevance": [
+        "Amazon",
+        "Apple",
+        "Systems companies"
+      ]
+    },
+    {
+      "id": "CS5100",
+      "name": "Foundations of AI",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Search algorithms, constraint satisfaction, logic, planning, and probabilistic reasoning.",
+      "prerequisites": [
+        "CS5002",
+        "CS5008"
+      ],
+      "tracks": [
+        "AI/ML"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "AI/ML engineer"
+      ],
+      "professor": "Prof. Javed A. Aslam",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4.3,
+      "grade_distribution": {
+        "A": 42,
+        "B": 36,
+        "C": 16,
+        "D_F": 6
+      },
+      "coop_relevance": [
+        "Google AI",
+        "Meta AI",
+        "OpenAI",
+        "IBM"
+      ]
+    },
+    {
+      "id": "CS5200",
+      "name": "Database Management Systems",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Relational model, SQL, normalization, and transactions.",
+      "prerequisites": [
+        "CS5001"
+      ],
+      "tracks": [
+        "Data",
+        "Software"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "Backend",
+        "Data engineer"
+      ],
+      "professor": "Prof. Ghita Amor-Tijani",
+      "semesters_offered": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "delivery_mode": "Hybrid",
+      "class_size": "Large (60+)",
+      "student_rating": 4.1,
+      "grade_distribution": {
+        "A": 44,
+        "B": 37,
+        "C": 14,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Oracle",
+        "Salesforce",
+        "Amazon",
+        "Snowflake"
+      ]
+    },
+    {
+      "id": "CS5500",
+      "name": "Foundations of Software Engineering",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "SDLC, testing, design patterns, and agile methodologies.",
+      "prerequisites": [
+        "CS5001"
+      ],
+      "tracks": [
+        "Software"
+      ],
+      "difficulty": 2,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "SWE",
+        "PM"
+      ],
+      "professor": "Prof. Clark Freifeld",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 3.9,
+      "grade_distribution": {
+        "A": 50,
+        "B": 35,
+        "C": 12,
+        "D_F": 3
+      },
+      "coop_relevance": [
+        "All software companies",
+        "Startups"
+      ]
+    },
+    {
+      "id": "CS5600",
+      "name": "Computer Systems",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "OS concepts, memory management, concurrency, and I/O.",
+      "prerequisites": [
+        "CS5008"
+      ],
+      "tracks": [
+        "Systems"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "Systems",
+        "Embedded"
+      ],
+      "professor": "Prof. Peter Desnoyers",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4,
+      "grade_distribution": {
+        "A": 35,
+        "B": 38,
+        "C": 20,
+        "D_F": 7
+      },
+      "coop_relevance": [
+        "Intel",
+        "NVIDIA",
+        "Apple",
+        "Amazon AWS"
+      ]
+    },
+    {
+      "id": "CS5610",
+      "name": "Web Development",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "HTML, CSS, JavaScript, React, Node.js, and REST APIs.",
+      "prerequisites": [
+        "CS5001"
+      ],
+      "tracks": [
+        "Software"
+      ],
+      "difficulty": 2,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "Web dev",
+        "Full-stack"
+      ],
+      "professor": "Prof. Ghita Amor-Tijani",
+      "semesters_offered": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "delivery_mode": "Online",
+      "class_size": "Large (60+)",
+      "student_rating": 4.4,
+      "grade_distribution": {
+        "A": 52,
+        "B": 33,
+        "C": 12,
+        "D_F": 3
+      },
+      "coop_relevance": [
+        "Meta",
+        "Airbnb",
+        "Spotify",
+        "Startups"
+      ]
+    },
+    {
+      "id": "CS5800",
+      "name": "Algorithms",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Sorting, graph algorithms, dynamic programming, and NP-completeness.",
+      "prerequisites": [
+        "CS5002",
+        "CS5008"
+      ],
+      "tracks": [
+        "Core",
+        "AI/ML"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "All SWE",
+        "Research"
+      ],
+      "professor": "Prof. Virgil Pavlu",
+      "semesters_offered": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Large (60+)",
+      "student_rating": 4.1,
+      "grade_distribution": {
+        "A": 36,
+        "B": 40,
+        "C": 18,
+        "D_F": 6
+      },
+      "coop_relevance": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Meta",
+        "All FAANG"
+      ]
+    },
+    {
+      "id": "CS6120",
+      "name": "Natural Language Processing",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Text classification, embeddings, transformers, and large language models.",
+      "prerequisites": [
+        "CS6140",
+        "CS6200"
+      ],
+      "tracks": [
+        "AI/ML"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "NLP engineer",
+        "AI researcher"
+      ],
+      "professor": "Prof. David Smith",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 4.6,
+      "grade_distribution": {
+        "A": 48,
+        "B": 36,
+        "C": 12,
+        "D_F": 4
+      },
+      "coop_relevance": [
+        "OpenAI",
+        "Anthropic",
+        "Google DeepMind",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "CS6140",
+      "name": "Machine Learning",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Supervised and unsupervised learning, neural networks, and model evaluation.",
+      "prerequisites": [
+        "CS5800",
+        "INFO6105"
+      ],
+      "tracks": [
+        "AI/ML",
+        "Data"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "ML engineer",
+        "Data scientist"
+      ],
+      "professor": "Prof. Virgil Pavlu",
+      "semesters_offered": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Large (60+)",
+      "student_rating": 4.5,
+      "grade_distribution": {
+        "A": 42,
+        "B": 38,
+        "C": 15,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Google",
+        "Meta",
+        "Amazon",
+        "Tesla",
+        "Data companies"
+      ]
+    },
+    {
+      "id": "CS6200",
+      "name": "Information Retrieval",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Indexing, ranking, evaluation metrics, and search engine design.",
+      "prerequisites": [
+        "CS5800"
+      ],
+      "tracks": [
+        "AI/ML",
+        "Data"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 12,
+      "career_tags": [
+        "Search",
+        "Recommendation systems"
+      ],
+      "professor": "Prof. David Smith",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4.2,
+      "grade_distribution": {
+        "A": 44,
+        "B": 38,
+        "C": 14,
+        "D_F": 4
+      },
+      "coop_relevance": [
+        "Google",
+        "Microsoft Bing",
+        "LinkedIn",
+        "Spotify"
+      ]
+    },
+    {
+      "id": "CS6210",
+      "name": "Advanced Algorithms",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Advanced graph algorithms, approximation algorithms, and randomized algorithms.",
+      "prerequisites": [
+        "CS5800"
+      ],
+      "tracks": [
+        "Core",
+        "Research"
+      ],
+      "difficulty": 5,
+      "workload_hrs_per_week": 16,
+      "career_tags": [
+        "Research",
+        "Quant",
+        "Top-tier SWE"
+      ],
+      "professor": "Prof. Rajmohan Rajaraman",
+      "semesters_offered": [
+        "Fall"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 4.3,
+      "grade_distribution": {
+        "A": 30,
+        "B": 42,
+        "C": 22,
+        "D_F": 6
+      },
+      "coop_relevance": [
+        "Jane Street",
+        "Two Sigma",
+        "Google Research",
+        "MIT Lincoln Lab"
+      ]
+    },
+    {
+      "id": "CS6220",
+      "name": "Data Mining",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Clustering, association rules, and anomaly detection techniques.",
+      "prerequisites": [
+        "CS6140"
+      ],
+      "tracks": [
+        "AI/ML",
+        "Data"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 12,
+      "career_tags": [
+        "Data scientist",
+        "ML engineer"
+      ],
+      "professor": "Prof. Ehsan Elhamifar",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4,
+      "grade_distribution": {
+        "A": 43,
+        "B": 37,
+        "C": 15,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Amazon",
+        "Wayfair",
+        "HubSpot",
+        "DataRobot"
+      ]
+    },
+    {
+      "id": "CS6240",
+      "name": "Large-Scale Parallel Data Processing",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "MapReduce, Spark, distributed systems, and cloud computing.",
+      "prerequisites": [
+        "CS5800",
+        "CS5600"
+      ],
+      "tracks": [
+        "Data",
+        "Systems"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "Data engineer",
+        "Cloud engineer"
+      ],
+      "professor": "Prof. Mirek Riedewald",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4.1,
+      "grade_distribution": {
+        "A": 38,
+        "B": 40,
+        "C": 17,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Amazon AWS",
+        "Google Cloud",
+        "Databricks",
+        "Snowflake"
+      ]
+    },
+    {
+      "id": "CS6300",
+      "name": "Foundations of Theory of Computation",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Automata theory, computability, and complexity theory.",
+      "prerequisites": [
+        "CS5800"
+      ],
+      "tracks": [
+        "Theory"
+      ],
+      "difficulty": 5,
+      "workload_hrs_per_week": 15,
+      "career_tags": [
+        "Research",
+        "Academia"
+      ],
+      "professor": "Prof. Haris Angelidakis",
+      "semesters_offered": [
+        "Fall"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 3.9,
+      "grade_distribution": {
+        "A": 28,
+        "B": 40,
+        "C": 24,
+        "D_F": 8
+      },
+      "coop_relevance": [
+        "Research labs",
+        "Academia",
+        "Cryptography firms"
+      ]
+    },
+    {
+      "id": "CS6340",
+      "name": "Software Assurance",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Static analysis, model checking, and program verification.",
+      "prerequisites": [
+        "CS5500",
+        "CS5800"
+      ],
+      "tracks": [
+        "Software"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 12,
+      "career_tags": [
+        "Security",
+        "Reliability engineering"
+      ],
+      "professor": "Prof. Frank Tip",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 4.2,
+      "grade_distribution": {
+        "A": 40,
+        "B": 38,
+        "C": 17,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Raytheon",
+        "CrowdStrike",
+        "Palo Alto Networks",
+        "MITRE"
+      ]
+    },
+    {
+      "id": "CS6400",
+      "name": "Computer Networks",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "TCP/IP, routing, congestion control, and network programming.",
+      "prerequisites": [
+        "CS5600"
+      ],
+      "tracks": [
+        "Systems"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 12,
+      "career_tags": [
+        "Network engineer",
+        "Cloud"
+      ],
+      "professor": "Prof. Cheng Tan",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4,
+      "grade_distribution": {
+        "A": 40,
+        "B": 38,
+        "C": 17,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Cisco",
+        "Amazon AWS",
+        "Akamai",
+        "Cloudflare"
+      ]
+    },
+    {
+      "id": "CS6410",
+      "name": "Distributed Systems",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Consistency, replication, fault tolerance, and consensus protocols.",
+      "prerequisites": [
+        "CS5800",
+        "CS5600"
+      ],
+      "tracks": [
+        "Systems"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "Backend",
+        "Cloud",
+        "Distributed systems"
+      ],
+      "professor": "Prof. Cheng Tan",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4.4,
+      "grade_distribution": {
+        "A": 41,
+        "B": 38,
+        "C": 16,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Amazon",
+        "Google",
+        "Netflix",
+        "Stripe"
+      ]
+    },
+    {
+      "id": "CS6420",
+      "name": "Computer Vision",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Image processing, CNNs, object detection, and segmentation.",
+      "prerequisites": [
+        "CS6140"
+      ],
+      "tracks": [
+        "AI/ML"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "Computer vision engineer",
+        "Robotics"
+      ],
+      "professor": "Prof. Huaizu Jiang",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 4.5,
+      "grade_distribution": {
+        "A": 45,
+        "B": 36,
+        "C": 14,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Tesla",
+        "Boston Dynamics",
+        "Apple",
+        "NVIDIA"
+      ]
+    },
+    {
+      "id": "CS6650",
+      "name": "Building Scalable Distributed Systems",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "System design, load balancing, caching, and microservices.",
+      "prerequisites": [
+        "CS6400"
+      ],
+      "tracks": [
+        "Systems",
+        "Software"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "Backend",
+        "Systems design"
+      ],
+      "professor": "Prof. Ian Gorton",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4.6,
+      "grade_distribution": {
+        "A": 46,
+        "B": 36,
+        "C": 14,
+        "D_F": 4
+      },
+      "coop_relevance": [
+        "Amazon",
+        "Google",
+        "Uber",
+        "Lyft",
+        "Netflix"
+      ]
+    },
+    {
+      "id": "CS6800",
+      "name": "Advanced Algorithms Design",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Competitive programming techniques and advanced data structures.",
+      "prerequisites": [
+        "CS6210"
+      ],
+      "tracks": [
+        "Theory"
+      ],
+      "difficulty": 5,
+      "workload_hrs_per_week": 16,
+      "career_tags": [
+        "Research",
+        "Quant finance"
+      ],
+      "professor": "Prof. Rajmohan Rajaraman",
+      "semesters_offered": [
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 4.2,
+      "grade_distribution": {
+        "A": 28,
+        "B": 42,
+        "C": 22,
+        "D_F": 8
+      },
+      "coop_relevance": [
+        "Jane Street",
+        "Citadel",
+        "Two Sigma",
+        "DE Shaw"
+      ]
+    },
+    {
+      "id": "DS4420",
+      "name": "Machine Learning and Data Mining",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Regression, classification, clustering, and feature engineering.",
+      "prerequisites": [
+        "CS5002",
+        "MATH2341"
+      ],
+      "tracks": [
+        "Data",
+        "AI/ML"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 12,
+      "career_tags": [
+        "Data scientist"
+      ],
+      "professor": "Prof. Sara Arunagiri",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4,
+      "grade_distribution": {
+        "A": 41,
+        "B": 38,
+        "C": 16,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "Amazon",
+        "HubSpot",
+        "Wayfair",
+        "Fidelity"
+      ]
+    },
+    {
+      "id": "INFO6105",
+      "name": "Data Science Engineering with Python",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Pandas, NumPy, scikit-learn, and data wrangling techniques.",
+      "prerequisites": [
+        "CS5001"
+      ],
+      "tracks": [
+        "Data"
+      ],
+      "difficulty": 2,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "Data analyst",
+        "Data scientist"
+      ],
+      "professor": "Prof. Karl Ni",
+      "semesters_offered": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "delivery_mode": "Online",
+      "class_size": "Large (60+)",
+      "student_rating": 4.3,
+      "grade_distribution": {
+        "A": 50,
+        "B": 35,
+        "C": 12,
+        "D_F": 3
+      },
+      "coop_relevance": [
+        "Amazon",
+        "HubSpot",
+        "Liberty Mutual",
+        "Fidelity"
+      ]
+    },
+    {
+      "id": "INFO6150",
+      "name": "Web Design and User Experience Engineering",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "UI/UX principles, HTML/CSS, Figma, and accessibility.",
+      "prerequisites": [
+        "CS5001"
+      ],
+      "tracks": [
+        "Software"
+      ],
+      "difficulty": 2,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "Frontend",
+        "UX designer"
+      ],
+      "professor": "Prof. John Alexis Guerra-Gomez",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "Hybrid",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4.2,
+      "grade_distribution": {
+        "A": 52,
+        "B": 34,
+        "C": 11,
+        "D_F": 3
+      },
+      "coop_relevance": [
+        "Sapient",
+        "Wayfair",
+        "Accenture",
+        "HubSpot"
+      ]
+    },
+    {
+      "id": "MATH2321",
+      "name": "Calculus 3",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Multivariable calculus, partial derivatives, and multiple integrals.",
+      "prerequisites": [
+        "MATH1342"
+      ],
+      "tracks": [
+        "Core Math"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "ML",
+        "Data science",
+        "Research"
+      ],
+      "professor": "Prof. Jose Perea",
+      "semesters_offered": [
+        "Fall",
+        "Spring",
+        "Summer"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Large (60+)",
+      "student_rating": 3.8,
+      "grade_distribution": {
+        "A": 35,
+        "B": 38,
+        "C": 20,
+        "D_F": 7
+      },
+      "coop_relevance": [
+        "Research labs",
+        "Quant firms"
+      ]
+    },
+    {
+      "id": "MATH2341",
+      "name": "Differential Equations and Linear Algebra",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Linear systems, eigenvalues, eigenvectors, and ordinary differential equations.",
+      "prerequisites": [
+        "MATH1342"
+      ],
+      "tracks": [
+        "Core Math"
+      ],
+      "difficulty": 3,
+      "workload_hrs_per_week": 10,
+      "career_tags": [
+        "ML",
+        "Data science"
+      ],
+      "professor": "Prof. Jose Perea",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Large (60+)",
+      "student_rating": 3.9,
+      "grade_distribution": {
+        "A": 36,
+        "B": 39,
+        "C": 19,
+        "D_F": 6
+      },
+      "coop_relevance": [
+        "Research labs",
+        "Quant firms",
+        "ML companies"
+      ]
+    },
+    {
+      "id": "CS7140",
+      "name": "Advanced Machine Learning",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Bayesian ML, probabilistic graphical models, and deep learning research.",
+      "prerequisites": [
+        "CS6140"
+      ],
+      "tracks": [
+        "AI/ML",
+        "Research"
+      ],
+      "difficulty": 5,
+      "workload_hrs_per_week": 16,
+      "career_tags": [
+        "ML researcher",
+        "PhD prep"
+      ],
+      "professor": "Prof. Ehsan Elhamifar",
+      "semesters_offered": [
+        "Fall"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 4.7,
+      "grade_distribution": {
+        "A": 44,
+        "B": 38,
+        "C": 14,
+        "D_F": 4
+      },
+      "coop_relevance": [
+        "OpenAI",
+        "Google DeepMind",
+        "Anthropic",
+        "Meta FAIR"
+      ]
+    },
+    {
+      "id": "CS7150",
+      "name": "Deep Learning",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "CNNs, RNNs, transformers, and training large-scale models.",
+      "prerequisites": [
+        "CS6140",
+        "MATH2341"
+      ],
+      "tracks": [
+        "AI/ML"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "Deep learning engineer",
+        "AI researcher"
+      ],
+      "professor": "Prof. Predrag Radivojac",
+      "semesters_offered": [
+        "Fall",
+        "Spring"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Medium (30-60)",
+      "student_rating": 4.6,
+      "grade_distribution": {
+        "A": 46,
+        "B": 36,
+        "C": 14,
+        "D_F": 4
+      },
+      "coop_relevance": [
+        "NVIDIA",
+        "Google",
+        "OpenAI",
+        "Tesla",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "CS5310",
+      "name": "Computer Graphics",
+      "credits": 4,
+      "tuition_cost": 7948,
+      "description": "Rendering, shading, OpenGL, and geometric transformations.",
+      "prerequisites": [
+        "CS5008",
+        "MATH2321"
+      ],
+      "tracks": [
+        "Systems"
+      ],
+      "difficulty": 4,
+      "workload_hrs_per_week": 14,
+      "career_tags": [
+        "Game dev",
+        "Visualization"
+      ],
+      "professor": "Prof. Enrico Bertini",
+      "semesters_offered": [
+        "Fall"
+      ],
+      "delivery_mode": "In-Person",
+      "class_size": "Small (<30)",
+      "student_rating": 4.1,
+      "grade_distribution": {
+        "A": 38,
+        "B": 40,
+        "C": 17,
+        "D_F": 5
+      },
+      "coop_relevance": [
+        "EA Games",
+        "Unity",
+        "NVIDIA",
+        "Pixar"
+      ]
+    }
+  ],
+  "concentration_tracks": {
+    "AI/ML": [
+      "CS5100",
+      "CS6140",
+      "CS6220",
+      "CS6420",
+      "CS7150",
+      "CS7140",
+      "CS6120"
+    ],
+    "Data Science": [
+      "INFO6105",
+      "DS4420",
+      "CS6140",
+      "CS6220",
+      "CS6240"
+    ],
+    "Systems": [
+      "CS5008",
+      "CS5600",
+      "CS6400",
+      "CS6410",
+      "CS6240",
+      "CS6650"
+    ],
+    "Software Engineering": [
+      "CS5500",
+      "CS5610",
+      "CS6340",
+      "CS6650",
+      "INFO6150"
+    ],
+    "Theory": [
+      "CS5800",
+      "CS6210",
+      "CS6300",
+      "CS6800"
+    ]
+  },
+  "graduation_requirements": {
+    "total_credits": 32,
+    "total_courses": 8,
+    "required_courses": [
+      "CS5800"
+    ],
+    "max_independent_study": 1,
+    "note": "All prerequisites must be satisfied before enrollment."
+  },
+  "tuition_info": {
+    "cost_per_credit": 1987,
+    "cost_per_course": 7948,
+    "total_program_cost": 63584,
+    "note": "Tuition figures are approximate and based on 2025-2026 rates. Verify at northeastern.edu/bursar."
+  },
+  "workload_warning_thresholds": {
+    "safe_weekly_hours": 30,
+    "caution_weekly_hours": 35,
+    "danger_weekly_hours": 40,
+    "note": "Includes estimated study, assignments, and project time per week across all enrolled courses."
+  }
+}
